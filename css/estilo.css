@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+
+h1{
+    color: #F2F2F2;
+    font-size: 36px;
+    padding: 20px 0px 40px 50px;
+    font-family: 'Bona Nova', serif;
+    
+}
+
+div{
+    background-color:#1920C7 ;
+    color: #F2F2F2;
+    font-size: 24px;
+}
+h2 div{
+  font-size: 28px;
+  font-family: 'Inter', sans-serif;
+  
+  
+}
+p div{
+    font-size: 24px;
+}
+
+
+h2 {
+    padding-top: 25px;
+    padding-bottom:25px;
+}
+
+
+
+.azul1{
+    background-color:#1920C7 ;
+    color: #F2F2F2;
+    font-size: 24px;
+    padding: 60px 100px 200px 100px;
+    line-height: 30px;
+}
+
+
+
+.branco1{
+    background-color: #fff;
+    color: #1920C7;
+    font-size: 24px;
+    text-align: center;
+    padding: 250px 100px 300px 100px;
+    line-height: 30px;
+    
+}
+
+.branco1 h3{
+    padding-bottom: 40px;
+}
+
+.azul2{
+    background-color:#1920C7 ;
+    color: #F2F2F2;
+    font-size: 24px;
+    padding: 220px 100px 250px 100px;
+    line-height: 30px;
+}
+.azul2 h3{
+    padding-bottom: 40px;
+}
+
+
+
+
+.branco2{
+    background-color: #fff;
+    color: #1920C7;
+    font-size: 24px;
+    text-align: center;
+    padding: 250px 100px 300px 100px;
+    line-height: 30px;
+}
+
+.branco2 h3{
+    padding-bottom: 40px;
+    
+}
